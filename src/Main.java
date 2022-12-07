@@ -3,5 +3,6 @@ public class Main {
         String tinh = "tinh nguyen";
         String halinh ="hello world";
         System.out.println(halinh);
+        System.out.println(tinh);
     }
 }
